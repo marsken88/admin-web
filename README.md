@@ -1,7 +1,7 @@
 ### 启动讲解
 
 ###### 配置vscode
-将 /vscode/settings.json文件配置到vscode中
+### 将 /vscode/settings.json文件配置到vscode中
 
 ###### 启动
 1 安装依赖：
